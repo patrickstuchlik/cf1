@@ -3,9 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - sklearn
+  - scikit-learn
   - matplotlib
-  - json
   - pandas
   - requests
   - bokeh
